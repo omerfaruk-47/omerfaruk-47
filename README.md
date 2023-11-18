@@ -1,5 +1,3 @@
-Welcome! 
-
 
 # 💫 About Me:
 Welcome! 👋
@@ -8,7 +6,6 @@ Welcome! 👋
 🌱 Continuous Learning: I make it a goal to learn something new every day. Staying updated with emerging technologies and advancements keeps me excited.<br>
 🤝 Collaboration and Feedback: I'm enthusiastic about collaborating on open-source projects and engaging with the community.
 
-https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white
 
 
 ## 🌐 Socials:
