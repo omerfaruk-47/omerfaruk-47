@@ -15,8 +15,6 @@ I make it a goal to learn something new every day. Staying updated with emerging
 🤝 Collaboration and Feedback:
 I'm enthusiastic about collaborating on open-source projects and engaging with the community. 
 
-
-
-
+[Instagram](link-to-instagram)
 
 
