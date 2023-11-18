@@ -8,6 +8,8 @@ Welcome! 👋
 🌱 Continuous Learning: I make it a goal to learn something new every day. Staying updated with emerging technologies and advancements keeps me excited.<br>
 🤝 Collaboration and Feedback: I'm enthusiastic about collaborating on open-source projects and engaging with the community.
 
+https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozcelikomar47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ömer-faruk-özçelik-5b9155294) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/Omerfarukmrdin) 
