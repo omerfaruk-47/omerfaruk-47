@@ -4,7 +4,7 @@ Welcome! 👋
 <br><br>👋 Hi, I’m @omerfaruk-47-Ömer Faruk Özçelik<br>An open-minded and curious individual. I thrive on embracing new challenges and constantly expanding my horizons, especially in the realms of computer science, software development, and artificial intelligence. <br>
 👨‍💻 About Me:<br>I am a front end developer.<br>Knowledgeable in artificial intelligence, data science, and machine learning.<br>Committed to contributing to open-source projects and fostering community engagement. <br>
 🔧 Technical Skills: <br>
-Programming Languages:JavaScript Web Development:HTML, CSS, React <br>
+Programming Languages:JavaScript Web Development:HTML,HTML5, CSS,CSS3, React <br>
 🌱 Continuous Learning:<br>
 I make it a goal to learn something new every day. Staying updated with emerging technologies and advancements keeps me excited.<br>
 🤝 Collaboration and Feedback:<br>
