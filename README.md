@@ -10,6 +10,9 @@ I make it a goal to learn something new every day. Staying updated with emerging
 🤝 Collaboration and Feedback:<br>
 I'm enthusiastic about collaborating on open-source projects and engaging with the community.
 
+##Skills
+![Javascript](<i class="devicon-javascript-plain colored"></i>)
+
 
 
 ## 🌐 Socials
